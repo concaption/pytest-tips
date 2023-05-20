@@ -3,7 +3,7 @@ def more_hello():
 
 
 def more_goodbye():
-    return "bye"
+    return "byes"
 
 
 # this is a nonsense code that generate linting error
