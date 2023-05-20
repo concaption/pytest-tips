@@ -8,7 +8,7 @@ def more_goodbye():
 
 # this is a nonsense code that generate linting error
 var = 1
-var = var
+# var = var
 
 # Bad syntax
 
